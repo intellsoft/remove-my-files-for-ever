@@ -1,4 +1,4 @@
-```markdown
+
 <div dir="rtl" align="right">
 
 # 🛡️ نرم‌افزار پاک‌سازی ایمن اطلاعات (Secure File Eraser)
